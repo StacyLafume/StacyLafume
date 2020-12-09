@@ -7,7 +7,7 @@ I am a relentless learner, and I believe in understanding all facets of the prod
 
 Outside of coding, you may find me drawing. To some it may seem that I am doodling, but actually this is the way I think through complex questions, and cement the knowledge I’ve gained. By embracing my creativity I was able to succeed and become the talented Software Engineer that I am today. 
 
-To see some of my illustrations, meet me on instagram:[@StacyDraws (https://www.instagram.com/stacydraws/)
+To see some of my illustrations, meet me on instagram:[@StacyDraws] (https://www.instagram.com/stacydraws/)
 
 Amazing at : HTML & CSS | JavaScript ES6 | React | Express | Node.js | Mongo DB
 
