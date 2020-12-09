@@ -17,7 +17,7 @@ Worked with: Php | SQL | Graphql | Azure| Kibana| Apollo Client
 
 ## I’m currently working on:
 - practicing data-structures and algorithms
-- Building and designing some full stack apps 
+- Building and designing full stack apps 
 - Learning anatomy with figure drawing
 
 ## Connect with me on the web :
