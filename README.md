@@ -1,5 +1,5 @@
 # Hello👋, my name is Stacy
-#### I am  a Full Stack Software Engineer
+####  Full Stack Software Engineer
 
 ![qoute](https://user-images.githubusercontent.com/47963818/101625804-faa1c100-39e9-11eb-86a9-7bebbe7f80a3.gif)
 
@@ -8,12 +8,14 @@ I am a relentless learner, and I believe in understanding all facets of the prod
 Outside of coding, you may find me drawing. To some it may seem that I am doodling, but actually this is the way I think through complex questions, and cement the knowledge I’ve gained. By embracing my creativity I was able to succeed and become the talented Software Engineer that I am today. 
 
 To see some of my illustrations, meet me on instagram: [@StacyDraws](https://www.instagram.com/stacydraws/)
+
+#### Tech Skills:
  
 Amazing at : HTML & CSS | JavaScript ES6 | React | Express | Node.js | Mongo DB
 
 Worked with: PHP | SQL | GRAPHQL | AZURE | KIBANA | APOLLOCLIENT
 
-###### I’m currently working on:
+#### I’m currently working on:
 - practicing data-structures and algorithms
 - Building and designing some full stack apps 
 - Learning anatomy with figure drawing
