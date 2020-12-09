@@ -9,13 +9,13 @@ Outside of coding, you may find me drawing. To some it may seem that I am doodli
 
 To see some of my illustrations, meet me on instagram: [@StacyDraws](https://www.instagram.com/stacydraws/)
 
-### Tech Skills:
+## Tech Skills:
  
 Amazing at : HTML & CSS | JavaScript ES6 | React | Express | Node.js | Mongo DB
 
 Worked with: PHP | SQL | GRAPHQL | AZURE | KIBANA | APOLLOCLIENT
 
-#### I’m currently working on:
+## I’m currently working on:
 - practicing data-structures and algorithms
 - Building and designing some full stack apps 
 - Learning anatomy with figure drawing
