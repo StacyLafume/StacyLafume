@@ -20,6 +20,10 @@ Worked with: Php | SQL | Graphql | Azure| Kibana| Apollo Client
 - Building and designing some full stack apps 
 - Learning anatomy with figure drawing
 
+## Connect with me on the web :
+-  [Linked In](https://www.linkedin.com/in/stacy-lafume/)
+-  [Twitter](https://twitter.com/stacylafume1) 
+-  [Portfolio](https://www.stacylafume.com/)
 <!--
 **StacyLafume/StacyLafume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
