@@ -13,7 +13,7 @@ To see some of my illustrations, meet me on instagram: [@StacyDraws](https://www
  
 Amazing at : HTML & CSS | JavaScript ES6 | React | Express | Node.js | Mongo DB
 
-Worked with: PHP | SQL | GRAPHQL | AZURE | KIBANA | APOLLOCLIENT
+Worked with: Php | SQL | Graphql | Azure| Kibana| Apollo Client
 
 ## I’m currently working on:
 - practicing data-structures and algorithms
