@@ -1,7 +1,7 @@
 ### Hello👋, my name is Stacy
 #### I am  a Full Stack Software Engineer
 
-![code](https://user-images.githubusercontent.com/47963818/101622272-d68fb100-39e4-11eb-82a4-182ba3cf646f.gif)
+![qoute](https://user-images.githubusercontent.com/47963818/101625804-faa1c100-39e9-11eb-86a9-7bebbe7f80a3.gif)
 
 I am a relentless learner, and I believe in understanding all facets of the products I work on. I’m also a dedicated, empathetic team player who leads with emotional intelligence, and delivers accordingly. 
 
@@ -10,6 +10,7 @@ Outside of coding, you may find me drawing. To some it may seem that I am doodli
 To see some of my illustrations, meet me on instagram:[@StacyDraws (https://www.instagram.com/stacydraws/)
 
 Amazing at : HTML & CSS | JavaScript ES6 | React | Express | Node.js | Mongo DB
+
 Worked with: PHP | SQL | GRAPHQL | AZURE | KIBANA | APOLLOCLIENT
 
 ###### I’m currently working on:
