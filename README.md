@@ -1,4 +1,4 @@
-### Hi there 👋
+![code](https://user-images.githubusercontent.com/47963818/101622272-d68fb100-39e4-11eb-82a4-182ba3cf646f.gif)
 
 <!--
 **StacyLafume/StacyLafume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
